@@ -1,0 +1,2 @@
+- Os testes de unidade tendem a ser menos acoplados.
+- Os testes de unidade podem ser considerados caixa-branca enquanto os testes funcionais podem ser considerados como testes caixa-preta.
